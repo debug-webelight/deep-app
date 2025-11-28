@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.app.ziya",
+      "sha256_cert_fingerprints": [
+        "39:CC:9B:92:23:A5:10:6D:A1:75:AB:DF:37:3D:55:96:99:89:72:D1:68:B5:D7:BD:E1:EA:0A:B5:3D:F4:09:F5"
+      ]
+    }
+  }
+]
