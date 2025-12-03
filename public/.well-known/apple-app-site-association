@@ -4,7 +4,9 @@
     "details": [
       {
         "appID": "VJD8VCPFCR.com.app.ziya",
-        "paths": [ "*" ]
+        "paths": [
+          "/link/*"
+        ]
       }
     ]
   }
